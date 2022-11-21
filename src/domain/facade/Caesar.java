@@ -1,4 +1,4 @@
-package domain;
+package domain.facade;
 
 public class Caesar implements EncodingInterface{
 

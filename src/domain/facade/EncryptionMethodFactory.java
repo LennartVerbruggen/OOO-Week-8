@@ -1,4 +1,4 @@
-package domain;
+package domain.facade;
 
 public class EncryptionMethodFactory {
     public static EncodingInterface createEncryptionMethod(String encryptionMethodCode){

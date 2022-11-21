@@ -1,9 +1,9 @@
-package domain;
+package domain.facade;
 
 public enum EncryptionMethodEnum {
-    CAESAR ("Caesar", "domain.Caesar"),
-    MIRROR ("Mirror", "domain.Mirror"),
-    RANDOMCYPHER ("RandomCypher", "domain.RandomCypher");
+    CAESAR ("Caesar", "domain.facade.Caesar"),
+    MIRROR ("Mirror", "domain.facade.Mirror"),
+    RANDOMCYPHER ("RandomCypher", "domain.facade.RandomCypher");
 
 
     private final String omschrijving;

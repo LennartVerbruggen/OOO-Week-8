@@ -1,4 +1,4 @@
-package domain;
+package domain.facade;
 
 public interface EncodingInterface {
     String crypt(String tekst);

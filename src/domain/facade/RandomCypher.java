@@ -3,7 +3,7 @@
 // (powered by FernFlower decompiler)
 //
 
-package domain;
+package domain.facade;
 
 import java.util.HashMap;
 import java.util.Iterator;

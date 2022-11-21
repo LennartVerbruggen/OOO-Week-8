@@ -1,6 +1,8 @@
 package ui;
 
-import domain.*;
+import domain.facade.EncodingInterface;
+import domain.facade.EncryptionMethodContext;
+import domain.facade.EncryptionMethodFactory;
 import javafx.application.Application;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
